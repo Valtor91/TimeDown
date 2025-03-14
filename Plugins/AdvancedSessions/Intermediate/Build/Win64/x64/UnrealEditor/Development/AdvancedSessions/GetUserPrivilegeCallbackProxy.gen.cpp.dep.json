@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\david\\documents\\github\\timecode\\plugins\\advancedsessions\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedsessions\\uht\\getuserprivilegecallbackproxy.gen.cpp",
+        "Source": "c:\\users\\david\\documents\\github\\timedown\\plugins\\advancedsessions\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedsessions\\uht\\getuserprivilegecallbackproxy.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\david\\documents\\github\\timecode\\intermediate\\build\\win64\\x64\\timecodeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\david\\documents\\github\\timedown\\intermediate\\build\\win64\\x64\\timecodeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\david\\documents\\github\\timecode\\plugins\\advancedsessions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\advancedsessions\\definitions.advancedsessions.h",
-            "c:\\users\\david\\documents\\github\\timecode\\plugins\\advancedsessions\\source\\advancedsessions\\classes\\getuserprivilegecallbackproxy.h",
-            "c:\\users\\david\\documents\\github\\timecode\\plugins\\advancedsessions\\source\\advancedsessions\\classes\\blueprintdatadefinitions.h",
+            "c:\\users\\david\\documents\\github\\timedown\\plugins\\advancedsessions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\advancedsessions\\definitions.advancedsessions.h",
+            "c:\\users\\david\\documents\\github\\timedown\\plugins\\advancedsessions\\source\\advancedsessions\\classes\\getuserprivilegecallbackproxy.h",
+            "c:\\users\\david\\documents\\github\\timedown\\plugins\\advancedsessions\\source\\advancedsessions\\classes\\blueprintdatadefinitions.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerstate.generated.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessioninterface.h",
@@ -118,8 +118,8 @@
             "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\online\\onlinesubsystemutils\\intermediate\\build\\win64\\unrealeditor\\inc\\onlinesubsystemutils\\uht\\testbeaconhost.generated.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\online\\onlinesubsystemutils\\source\\onlinesubsystemutils\\classes\\turnbasedblueprintlibrary.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\online\\onlinesubsystemutils\\intermediate\\build\\win64\\unrealeditor\\inc\\onlinesubsystemutils\\uht\\turnbasedblueprintlibrary.generated.h",
-            "c:\\users\\david\\documents\\github\\timecode\\plugins\\advancedsessions\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedsessions\\uht\\blueprintdatadefinitions.generated.h",
-            "c:\\users\\david\\documents\\github\\timecode\\plugins\\advancedsessions\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedsessions\\uht\\getuserprivilegecallbackproxy.generated.h"
+            "c:\\users\\david\\documents\\github\\timedown\\plugins\\advancedsessions\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedsessions\\uht\\blueprintdatadefinitions.generated.h",
+            "c:\\users\\david\\documents\\github\\timedown\\plugins\\advancedsessions\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedsessions\\uht\\getuserprivilegecallbackproxy.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
