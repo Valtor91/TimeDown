@@ -28,6 +28,18 @@
 		{
 			"Name": "UnrealFastNoise2",
 			"Enabled": false
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "WaterExtras",
+			"Enabled": true
+		},
+		{
+			"Name": "WaterAdvanced",
+			"Enabled": true
 		}
 	]
 }
